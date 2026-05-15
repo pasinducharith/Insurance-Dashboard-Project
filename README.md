@@ -66,9 +66,9 @@ The dashboard contains:
 ---
 
 ## Files Included
-- `insurance_data_1.csv` → Final Excel dashboard
+- `insurance_data_2.xlsx` → Final Excel dashboard
 - `insurance_data.csv` → Original dataset
-- `dashboard_screenshots.png` → Dashboard preview images
+- `dashboard_screenshot.png` → Dashboard preview image
 - `README.md` → Project documentation
 
 ---
